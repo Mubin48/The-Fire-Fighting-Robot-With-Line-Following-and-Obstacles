@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"M1, M2, M3, M4, M5",5," DC Motor"
+"U1",1," Arduino Uno R3"
+"BAT1",1," 9V Battery"
+"U2",1," H-bridge Motor Driver"
+"SERVO1",1,"Positional Micro Servo"
+"K1",1," Relay SPDT"
+"R1, R4, R2",3,"220 Ω Resistor"
+"U5, U6, U4",3," Photodiode"
+"U7, U8, U3",3," Temperature Sensor [TMP36]"
+"PIEZO1",1," Piezo"
+"D1",1,"Red LED"
+"R3",1,"1 kΩ Resistor"
